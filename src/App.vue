@@ -134,7 +134,7 @@ export default {
           "alias": "Gil Laguna",
           "code": "MMHEP9",
           "corpro": "IPS-N",
-          "frame": "Caliban",
+          "frame": "TORTUGA",
           "mech": "A Little Shock"
         },
 		{
