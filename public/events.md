@@ -7,4 +7,4 @@ Following the initial landfall, our Lancers are deployed from their reserve stat
 
 After gathering information from the command center, it became clear that the reason for the sudden increase in defensive posture and the advancement of a mercenary force to the position was due to unextracted assets at the time of the invasion. Though thurough, the mercenary group was still in the process of their job when they were assaulted. Unable to complete their goals, several pieces of information and clues remain below.
 
-Afterr escuing and Aunic survivor and clearing the structure of hostile mercenary forces, the Lancers come face to face with their first truly Baronic enemies: a trio of house company mechs, ready and waiting to greet them in the traditional Baronic way.
+After rescuing and Aunic survivor and clearing the structure of hostile mercenary forces, the Lancers come face to face with their first truly Baronic enemies: a trio of house company mechs, ready and waiting to greet them in the traditional Baronic way.
