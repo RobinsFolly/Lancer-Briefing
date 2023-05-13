@@ -135,7 +135,7 @@ export default {
           "code": "MMHEP9",
           "corpro": "IPS-N",
           "frame": "TORTUGA",
-          "mech": "A Little Shock"
+          "mech": "Green Machine"
         },
 		{
           "callsign": "WRAITH",
