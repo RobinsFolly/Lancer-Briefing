@@ -114,48 +114,64 @@ export default {
       ],
       "pilots": [
         {
-          "callsign": "PRESS",
-          "alias": "Lysa Bench",
+          "callsign": "FENRIS",
+          "alias": "Sehan Dyvess",
           "code": "AQW897",
-          "corpro": "SSC",
-          "frame": "Atlas",
-          "mech": "BLOODY_SEVEN"
+          "corpro": "H.A.",
+          "frame": "ENKIDU",
+          "mech": "Gleipnir"
         },
         {
-          "callsign": "RAVEN",
-          "alias": "CWO JACE RAVEN",
+          "callsign": "SPUR",
+          "alias": "Colt Callaway",
           "code": "KYDR86",
-          "corpro": "SSC",
-          "frame": "Duskwing",
-          "mech": "Wraith"
+          "corpro": "ISP-N",
+          "frame": "KIDD",
+          "mech": "Tumbleweed"
         },
         {
-          "callsign": "STORMSHOT",
-          "alias": "Latha Sarpy",
+          "callsign": "HYDRA",
+          "alias": "Gil Laguna",
           "code": "MMHEP9",
           "corpro": "IPS-N",
           "frame": "Caliban",
           "mech": "A Little Shock"
         },
 		{
-          "callsign": "FRIZZ",
-          "alias": "Cassius Fellar",
+          "callsign": "WRAITH",
+          "alias": "Victor [RED.]",
           "code": "4NJEBS",
-          "corpro": "IPS-N",
-          "frame": "Lancaster",
-          "mech": "Unbreakable Union"
+          "corpro": "HORUS",
+          "frame": "KOBOLD",
+          "mech": "Raze n' Ruin"
+        },
+		{
+          "callsign": "RAINFALL",
+          "alias": "Natalya Volkova",
+          "code": "AQW897",
+          "corpro": "S.S.C.",
+          "frame": "MONARCH",
+          "mech": "Blind Witness"
+        },
+		{
+          "callsign": "SEEKER",
+          "alias": "Alexan'Yaa",
+          "code": "AQW897",
+          "corpro": "HORUS",
+          "frame": "GOBLIN",
+          "mech": "0MN1_CHR0MAT1C_BL1GHT"
         },
       ],
       "header": {
-        "planet": "KIEMENE",
-        "year": "5022u",
-        "system": "BRIGHT",
-        "gate": "WENSHAN",
-        "ring": "ANNAMITE / DISTAL",
+        "planet": "Crowngarden",
+        "year": "5017u",
+        "system": "Dawnline Shore",
+        "gate": "None in system",
+        "ring": "Closest: ANNAMITE / DISTAL",
         "headerTitle": "UNION",
-        "headerSubtitle": "DOJ/HR",
-        "subheaderTitle": "LIBERATOR AUXILIARY",
-        "subheaderSubtitle": "HALF-PINT HEROES",
+        "headerSubtitle": "Union Navy",
+        "subheaderTitle": "Ace Pilot 'Lance' Squadron",
+        "subheaderSubtitle": "Lance of the Marble Arcade",
       }
     }
   },
