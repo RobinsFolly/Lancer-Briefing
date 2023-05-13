@@ -159,7 +159,7 @@ export default {
           "code": "AQW897",
           "corpro": "HORUS",
           "frame": "GOBLIN",
-          "mech": "0MN1_CHR0MAT1C_BL1GHT"
+          "mech": "OMN1_CHR0MAT1C_BL1GHT"
         },
       ],
       "header": {
