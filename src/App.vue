@@ -170,7 +170,7 @@ export default {
         "ring": "Closest: ANNAMITE",
         "headerTitle": "UNION DOJ/HR",
         "headerSubtitle": "Union Navy",
-        "subheaderTitle": "Ace Pilot Squadron",
+        "subheaderTitle": "Ace Pilot Squad",
         "subheaderSubtitle": "Lance of the Marble Arcade",
       }
     }
