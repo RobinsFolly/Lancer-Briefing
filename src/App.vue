@@ -92,19 +92,19 @@ export default {
       "events": "",
       "missions": [
         {
-          "slug": "002",
+          "slug": "001",
           "name": "Planetfall",
           "status": "success"
         },
         {
-          "slug": "004",
-          "name": "Subsistance",
-          "status": "success"
+          "slug": "003",
+          "name": "N/A",
+          "status": "N/A"
         },
         {
-          "slug": "003",
-          "name": "Reconnect",
-          "status": "success"
+          "slug": "004",
+          "name": "N/A",
+          "status": "N/A"
         },
        {
           "slug": "001",
