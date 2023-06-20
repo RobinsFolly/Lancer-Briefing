@@ -99,7 +99,7 @@ export default {
         {
           "slug": "002",
           "name": "Waterlogged",
-          "status": "start""
+          "status": "start"
         },
         {
           "slug": "003",
