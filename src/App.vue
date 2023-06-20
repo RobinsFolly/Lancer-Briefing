@@ -93,8 +93,8 @@ export default {
       "missions": [
         {
           "slug": "002",
-          "name": "Operation Roanoke",
-          "status": "start"
+          "name": "Planetfall",
+          "status": "success"
         },
         {
           "slug": "004",
