@@ -1,3 +1,3 @@
 ## Colt Callaway
 # Union Ace Pilot 'Lancer', Liscense Level 04
-Resident drunk. Eats raw coffee beans.
+Fatso. Has robot waifu. Will cut you with his coke toenail.
